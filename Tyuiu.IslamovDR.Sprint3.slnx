@@ -1,5 +1,27 @@
 <Solution>
-  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib/Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib.csproj" Id="be7233b0-c902-4889-ab07-6c5b9f84787f" />
-  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Test/Tyuiu.IslamovDR.Sprint3.Task0.V1.Test.csproj" Id="84b305cc-3754-41e0-98cf-ecec44e724a6" />
-  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1/Tyuiu.IslamovDR.Sprint3.Task0.V1.csproj" Id="1f3fbbeb-319f-4503-8ed4-081893dd3e00" />
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib/Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Test/Tyuiu.IslamovDR.Sprint3.Task0.V1.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1/Tyuiu.IslamovDR.Sprint3.Task0.V1.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task1.V18.Lib/Tyuiu.IslamovDR.Sprint3.Task1.V18.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task1.V18.Test/Tyuiu.IslamovDR.Sprint3.Task1.V18.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task1.V18/Tyuiu.IslamovDR.Sprint3.Task1.V18.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task2.V7.Lib/Tyuiu.IslamovDR.Sprint3.Task2.V7.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task2.V7.Test/Tyuiu.IslamovDR.Sprint3.Task2.V7.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task2.V7/Tyuiu.IslamovDR.Sprint3.Task2.V7.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task3.V6.Lib/Tyuiu.IslamovDR.Sprint3.Task3.V6.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task3.V6.Test/Tyuiu.IslamovDR.Sprint3.Task3.V6.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task3.V6/Tyuiu.IslamovDR.Sprint3.Task3.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task4.V28.Lib/Tyuiu.IslamovDR.Sprint3.Task4.V28.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task4.V28.Test/Tyuiu.IslamovDR.Sprint3.Task4.V28.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task4.V28/Tyuiu.IslamovDR.Sprint3.Task4.V28.csproj" />
+  </Folder>
 </Solution>
