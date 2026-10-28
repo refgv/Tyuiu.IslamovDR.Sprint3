@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib/Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib.csproj" Id="be7233b0-c902-4889-ab07-6c5b9f84787f" />
+  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1.Test/Tyuiu.IslamovDR.Sprint3.Task0.V1.Test.csproj" Id="84b305cc-3754-41e0-98cf-ecec44e724a6" />
+  <Project Path="Tyuiu.IslamovDR.Sprint3.Task0.V1/Tyuiu.IslamovDR.Sprint3.Task0.V1.csproj" Id="1f3fbbeb-319f-4503-8ed4-081893dd3e00" />
+</Solution>
