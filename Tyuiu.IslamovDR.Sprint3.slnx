@@ -24,4 +24,19 @@
     <Project Path="Tyuiu.IslamovDR.Sprint3.Task4.V28.Test/Tyuiu.IslamovDR.Sprint3.Task4.V28.Test.csproj" />
     <Project Path="Tyuiu.IslamovDR.Sprint3.Task4.V28/Tyuiu.IslamovDR.Sprint3.Task4.V28.csproj" />
   </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task5.V27.Lib/Tyuiu.IslamovDR.Sprint3.Task5.V27.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task5.V27.Test/Tyuiu.IslamovDR.Sprint3.Task5.V27.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task5.V27/Tyuiu.IslamovDR.Sprint3.Task5.V27.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task6.V19.Lib/Tyuiu.IslamovDR.Sprint3.Task6.V19.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task6.V19.Test/Tyuiu.IslamovDR.Sprint3.Task6.V19.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task6.V19/Tyuiu.IslamovDR.Sprint3.Task6.V19.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task7.V28.Lib/Tyuiu.IslamovDR.Sprint3.Task7.V28.Lib.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task7.V28.Test/Tyuiu.IslamovDR.Sprint3.Task7.V28.Test.csproj" />
+    <Project Path="Tyuiu.IslamovDR.Sprint3.Task7.V28/Tyuiu.IslamovDR.Sprint3.Task7.V28.csproj" />
+  </Folder>
 </Solution>
