@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib;
 
 namespace Tyuiu.IslamovDR.Sprint3.Task0.V1.Test
@@ -16,7 +16,7 @@ namespace Tyuiu.IslamovDR.Sprint3.Task0.V1.Test
 
             double res = ds.GetSumSeries(x, startValue, stopValue);
 
-            Assert.AreEqual(1921, res);
+            Assert.AreEqual(1935, res);
         }
     }
 }

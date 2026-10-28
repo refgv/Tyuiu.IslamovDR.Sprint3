@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using tyuiu.cources.programming.interfaces.Sprint3;
 
 namespace Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib
@@ -10,9 +10,9 @@ namespace Tyuiu.IslamovDR.Sprint3.Task0.V1.Lib
             double sumSeries = 0;
             for (int i = startValue; i <= stopValue; i++)
             {
-                sumSeries += Math.Pow(value, 2) * i;
+                sumSeries += (Math.Pow(value, 2) * i) + 1;
             }
-            return sumSeries + 1;
+            return Math.Round(sumSeries, 3);
         }
     }
 }
